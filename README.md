@@ -12,9 +12,7 @@
 
 ###
 
-<p align="left">I am a Computer Science student and a Research Fellow in IoT, focusing on mobile CrowdSensing, Edge Computing, and Distributed Systems. I develop strategies and technologies to improve data collection (especially from sensors), processing, and real-time decision-making to advance the IoT ecosystem.
-
-I’m currently pursuing a Master of Science in Computer Science and seeking new opportunities.
+<p align="left">I am a Research Fellow in IoT, focusing on mobile CrowdSensing, Edge Computing, and Distributed Systems. I develop strategies and technologies to improve data collection (especially from sensors), processing, and real-time decision-making to advance the IoT systems for cyber-physical environments, with a particular focus on orchestration, and interoperability.
 
 Throughout my studies and work, I’ve been involved in all stages of the software development cycle, from planning and design to testing and deployment. No two days are ever the same for me 😱!</p>
 
